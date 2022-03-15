@@ -1,4 +1,6 @@
-![Gulnaz](https://avatars.githubusercontent.com/u/88134441?v=4)
+<img src="https://avatars.githubusercontent.com/u/88134441?v=4" width="200" height="200"/>
+
+
 # Gulnaz Sharshenalieva
 
 + [Karaan.org](https://karaan.org/) SMM
@@ -14,6 +16,16 @@
 During my student years I was learning Economics and Japanese.
 I got my bachelor's in Economics at Bishkek State University. 
 Next, I went to Istanbul University to earn Master's degree.
-After the graduation I have worked in several places. 
+After the graduation I have worked in several places as office manager and E-Commerce manager.
+Currently I remotely work as copywriter and SMM manager. Also I am learning Front-End Development online.
+*****
+## Skills and Proficiency
+* HTML5, CSS3
+* Bootstrap
+* JS basics
+* Figma
+* Git, GitHub
+* Notion, Trello
+
 
 
