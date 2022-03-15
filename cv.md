@@ -26,6 +26,31 @@ Currently I remotely work as copywriter and SMM manager. Also I am learning Fron
 * Figma
 * Git, GitHub
 * Notion, Trello
+****
+## Code Example
+```
+function multiply(a, b){
+ return a * b
+}
+multiply(56, 87)
+```
+***
+## Courses:
+* Jyldyz Academy HTML5, CSS3
+* Responsive Web Design on freecodecamp
+  [certificate](https://www.freecodecamp.org/certification/gulnaz/responsive-web-design)
+* ISMEK HTML5, CSS3
+* ISMEK Bootstrap
+* JavaScript on Patika Dev (in progress)
+* RS School Front-End Development (in progress)
+*****
+## Languages
+* Kyrgyz - native
+* Russian - fluent
+* Turkish - fluent
+* English - pre-intermediate
+* Japanese - beginner
+  
 
 
 
